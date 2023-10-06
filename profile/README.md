@@ -2,5 +2,4 @@
 
 ### One Shoot System Design 
 
-![system design](./OneShoot.png
-)
+![system design](./oneShoot.png)

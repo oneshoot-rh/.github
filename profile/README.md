@@ -1,6 +1,6 @@
 ## One Shoot IT Recruitment
 
-Our project is dedicated to revolutionizing the field of IT talent acquisition and recruitment by introducing an innovative platform that optimizes and accelerates the entire process. By bridging the gap between Human Resources (HR) teams and IT professionals seeking employment, our platform serves as a dynamic solution that empowers HR professionals to efficiently identify and engage with candidates whose qualifications align seamlessly with their organization's needs.
+> Our project is dedicated to revolutionizing the field of IT talent acquisition and recruitment by introducing an innovative platform that optimizes and accelerates the entire process. By bridging the gap between Human Resources (HR) teams and IT professionals seeking employment, our platform serves as a dynamic solution that empowers HR professionals to efficiently identify and engage with candidates whose qualifications align seamlessly with their organization's needs.
 
 ### Key Features:
 

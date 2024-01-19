@@ -30,4 +30,4 @@
 
 ### One Shoot System Design 
 
-![system design](./profile/oneShoot.png)
+![system design](./profile/oneshoot.png)

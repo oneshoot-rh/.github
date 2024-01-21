@@ -39,7 +39,7 @@ Leverages artificial intelligence and incorporates open-source intelligence to e
 ![technologies](./IDP.png)
 
 
-### DEMO
+### DEMO (Initial Implementation)
 ![system design](./profile/demo001.png)
 ![system design](./profile/demo002.png)
 ![system design](./profile/demo003.png)

@@ -36,4 +36,4 @@ Leverages artificial intelligence and incorporates open-source intelligence to e
 
 ### Technology Behind
 
-![technologies](./profile/Intelligent Document Processing.png)
+![technologies](./profile/IDP.png)

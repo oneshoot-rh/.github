@@ -36,4 +36,4 @@ Leverages artificial intelligence and incorporates open-source intelligence to e
 
 ### Technology Behind
 
-![technologies](./profile/IDP.png)
+![technologies](./IDP.png)

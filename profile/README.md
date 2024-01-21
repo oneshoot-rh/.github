@@ -1,33 +1,39 @@
 ## One Shoot IT Recruitment
 
->Our project is dedicated to revolutionizing the field of IT talent acquisition and recruitment by introducing an innovative platform that optimizes and accelerates the entire process. By bridging the gap between Human Resources (HR) teams and IT professionals seeking employment, our platform serves as a dynamic solution that empowers HR professionals to efficiently identify and engage with candidates whose qualifications align seamlessly with their organization's needs.
+>enterprise-level software (software as a service (SAAS)) designed for scalability, tailored to effortlessly handle
+extensive computing demands. This innovative solution empowers businesses and human resource departments by
+providing advanced tools for analyzing and categorizing resumes. Leveraging the capabilities of artificial intelligence,
+sophisticated machine learning models, and intelligent document processing technologies, our software seamlessly
+automates background checks and digitalizes the onboarding process. By incorporating open-source intelligence, our
+system ensures efficiency and accuracy in managing the intricate tasks associated with recruitment and hiring.
 
 ### Key Features:
 
-#### 1. Precise Profiling:
+#### 1. Resume Analysis Tools
 
- Our platform employs advanced algorithms to create detailed and accurate candidate profiles. This ensures that HR professionals can quickly locate individuals who possess the exact skills and experience required for their open positions.
+Empowers HR professionals with advanced tools for analyzing and categorizing resumes using artificial intelligence and machine learning models.
 
-#### 2. Enhanced Search Capabilities:
+#### 2. Automated Background Checks
 
- With a user-friendly interface, HR teams can effortlessly refine their candidate searches based on various criteria such as technical skills, experience level, geographic location, and more. This feature saves valuable time and resources.
+ Utilizes intelligent document processing and open-source intelligence technologies to seamlessly automate background checks, ensuring efficiency and accuracy in the hiring process.
 
-#### 3. Real-time Communication:
+#### 3. Digitalized Onboarding
 
-   Our platform facilitates direct and instant communication between HR professionals and potential candidates. This streamlined communication process fosters faster engagement and a more transparent recruitment experience.
+Streamlines onboarding by digitalizing the process, eliminating manual and non-digitalized methods, leading to improved document management and follow-up.
 
-#### 4. Data-driven Insights:
+#### 4. AI and Open-Source Intelligence Integration
 
- HR teams can access valuable data analytics and insights to make informed decisions. By leveraging these insights, they can adapt their recruitment strategies and ensure they are targeting the right talent pool.
-
-#### 5. Customized Alerts:
-
-   Our system offers customizable alerts to notify HR professionals when suitable candidates become available. This proactive approach keeps organizations ahead of the competition in securing top IT talent.
+Leverages artificial intelligence and incorporates open-source intelligence to ensure efficiency and accuracy in managing intricate tasks associated with recruitment and hiring
 
 #### 6. Security and Privacy:
 
   We prioritize the security and privacy of both HR professionals and candidates, ensuring that sensitive information is protected at all times.
 
-### One Shoot System Design 
+### One Shoot 
 
 ![system design](./profile/oneshoot.png)
+
+
+### Technology Behind
+
+![technologies](./profile/Intelligent Document Processing.png)

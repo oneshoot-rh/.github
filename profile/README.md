@@ -56,7 +56,7 @@ Leverages artificial intelligence and incorporates open-source intelligence to e
 ### Tools
 ### Python : Nltk
 
-![system design](./profile/nlp.png)
+![system design](./profile/nlp.jpg)
 
 #### Continuous Integration
 ![system design](./profile/deployment_.png)

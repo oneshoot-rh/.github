@@ -45,7 +45,18 @@ Leverages artificial intelligence and incorporates open-source intelligence to e
 ![system design](./profile/demo002.png)
 ![system design](./profile/demo003.png)
 
+
+### Architecture
+
+#### Multitenancy 
+![system design](./profile/multitenancy.png)
+#### Microservice 
+![system design](./profile/microservice.png)
+
 ### Tools
+### Python : Nltk
+
+![system design](./profile/nlp.png)
 
 #### Continuous Integration
 ![system design](./profile/deployment_.png)

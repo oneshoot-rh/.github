@@ -53,7 +53,7 @@ Leverages artificial intelligence and incorporates open-source intelligence to e
 
 #### Container based deployment using Docker 
 
-![system design](./profile/deployment.png)
+![system design](./profile/deployment__.png)
 
 
 

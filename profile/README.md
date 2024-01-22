@@ -40,8 +40,20 @@ Leverages artificial intelligence and incorporates open-source intelligence to e
 
 
 ### DEMO (Initial Implementation)
+
 ![system design](./profile/demo001.png)
 ![system design](./profile/demo002.png)
 ![system design](./profile/demo003.png)
+
+### Tools
+
+#### Continuous Integration
+![system design](./profile/deployment_.png)
+
+
+#### Container based deployment using Docker 
+
+![system design](./profile/deployment.png)
+
 
 

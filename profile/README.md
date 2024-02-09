@@ -45,6 +45,10 @@ Leverages artificial intelligence and incorporates open-source intelligence to e
 ![system design](./profile/demo002.png)
 ![system design](./profile/demo003.png)
 
+![system design](./profile/getting_started.png)
+![system design](./profile/sitename.png)
+![system design](./profile/sub_plan.png)
+
 
 ### Architecture
 

@@ -33,6 +33,8 @@ Leverages artificial intelligence and incorporates open-source intelligence to e
 
 ![system design](./profile/oneshoot.png)
 
+![system design](./profile/oneshoot_hld.png)
+
 
 ### Technology Behind
 
